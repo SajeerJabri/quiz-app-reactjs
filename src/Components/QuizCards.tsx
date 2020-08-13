@@ -16,7 +16,7 @@ const QuizCards: React.FC<questionPropsType> = ({ question, options, currentQues
         <Paper elevation={5} className={styles.paperQuestion}>
             <div className={styles.container}>
                 <Paper elevation={5} className={styles.questionCount}>
-                    <h4> Question Number: {currentQuestion}/{totalQuestion} </h4>
+                    <h4> {currentQuestion}/{totalQuestion} </h4>
                 </Paper>
                 <div className={styles.question}>
                     <h4>{currentQuestion}) &nbsp; {question}</h4>
