@@ -1,0 +1,17 @@
+.paperQuestion{
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 50px;
+}
+.questionCount{
+    margin: 0 auto;
+    width: 70px;
+    height: 70px;
+}
+.questionCount h4{
+    text-align: center;
+    padding: 20px;
+}
+.paperQuestion button{
+    margin-top: 10px;
+}

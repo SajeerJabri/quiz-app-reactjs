@@ -1,0 +1,17 @@
+.paperScore{
+    max-width: 600px;
+    margin: 90px auto;
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)) , url('../images/background.jpg');
+    background-size: contain;
+}
+.scoreContainer{
+    color: rgb(224, 220, 220);
+    text-align: center;
+    padding: 50px;
+    margin: 10px;
+}
+.scoreLogo{
+    margin: auto;
+    width: 70%;
+    height: 180px;
+}
